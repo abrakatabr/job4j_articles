@@ -1,7 +1,7 @@
 .idea
 target
 *.iml
-.properties
+*.properties
 
 # Compiled class file
 *.class
